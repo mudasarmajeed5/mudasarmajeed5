@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is MudassarMajeed from Rawalpindi,<b>Pakistan</b>, a Junior developer diving into the complexities of Web Developmet.</h2>
 
 ###
 
