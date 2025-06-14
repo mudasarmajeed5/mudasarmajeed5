@@ -1,6 +1,6 @@
 # 💫 About Me:
-Hi, I'm Mudassar! 👋 <br>I'm a BS Software Engineering student and a MERN Stack developer currently learning TypeScript with Next.js. <br>Passionate about coding, building SPA and API's, and turning ideas into functional products. 🚀
-
+Hi, I'm Mudassar
+I write sloppy, barely working code. Still learning, still breaking stuff. My life runs like my code — full of bugs, but it compiles, idk how
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mudasarmajeed55) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mudasarmajeed5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mudasarmajeed5) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ChainHungry342) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mudasarmajeed5) 
