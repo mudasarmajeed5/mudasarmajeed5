@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Mudassar I write sloppy, barely working code. Still learning, still breaking stuff. My life runs like my code — full of bugs, but it compiles, idk how
+Hi, I'm Mudassar I write sloppy, barely working code. Still learning, still breaking stuff. My life runs like my code, full of bugs, but it compiles, idk how
 
 
 ## 🌐 Socials:
